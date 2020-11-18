@@ -1,0 +1,32 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.image-height-300{
+    height: 300px;
+}
+
+.height-500{
+    height: 520px;
+}
+
+.bg-purple{
+    background-color: blueviolet;
+}
+
+.border {
+    border: 20px solid black;
+    border-radius: 10px;
+}
+
+.justify-content-evenly {
+    align-content: space-evenly;
+}
+
+.font-5{
+    font-size: 5px;
+}
+
+.font-14 {
+    font-size: 14px;
+}
